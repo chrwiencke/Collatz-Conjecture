@@ -3,12 +3,10 @@ function calculate(number: number) {
         if ( number % 2 !== 0 ) {
             number = number * 3 + 1 
             console.log(number)
-        } else if (number % 2 === 0) {
+        } else {
             number = number / 2 
             console.log(number)
-        } else {
-            console.log(number)
-        }    
+        } 
     }
 }
 

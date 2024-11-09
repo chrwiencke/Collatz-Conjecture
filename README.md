@@ -2,6 +2,10 @@ For Rust run
 ```
 cargo run
 ```
+or
+```
+./main
+```
 
 For Typescript run
 ```
